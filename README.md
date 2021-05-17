@@ -1,4 +1,25 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Traversy Next.js Tutorial Project
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). I followed Traversy's [video tutorial](https://youtu.be/mTz0GXj8NN0) on creating a news website to learn the fundamentals of Next.js.
+
+## Project Sample
+![Project Sample](../assets/screenshot-1.png?raw=true)
+
+
+## Outcome
+* Pages & Routing
+* Layout & CSS module
+* Nav & Link Components 
+* Styles JSX
+* Custom Document
+* Data Fetching at build time (static generation)
+  * getStaticProps()
+  * getStaticPaths()
+* Data Fetching at request (Server-side Rendering)
+  * gerServerSideProps()
+* Creating and Using custom API Endpoints
+* Exporting Static Websites
+* Custom Meta Component
 
 ## Getting Started
 
